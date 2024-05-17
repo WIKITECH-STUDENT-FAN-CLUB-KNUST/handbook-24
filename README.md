@@ -52,11 +52,11 @@ Wikitech is the technical arm of the Wikimedia movement. We're a community of de
 ## Core Team
 --------------
 
-* [Prince Larbi](https://meta.wikimedia.org/wiki/User:Pnlarbi)
-* [Ike Asamoah Ansah](https://meta.wikimedia.org/wiki/User:Ikeasamoahansah)
+* [Prince Nhyira Larbi](https://meta.wikimedia.org/wiki/User:Pnlarbi)
+* [Ike Asamoah-Ansah](https://meta.wikimedia.org/wiki/User:Ikeasamoahansah)
 * [Trishelle Akosah](https://meta.wikimedia.org/wiki/User:Trishmapak)
 * [Elikem Ata](https://meta.wikimedia.org/wiki/User:A.elikem)
-* [Frederick Ntow](https://meta.m.wikimedia.org/wiki/User:Ntowfk)
+* [Frederick Kwaku Ntow](https://meta.m.wikimedia.org/wiki/User:Ntowfk)
 
 ## Membership
 -------------
