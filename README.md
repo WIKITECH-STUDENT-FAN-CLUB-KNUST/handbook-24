@@ -1,5 +1,5 @@
 
-# Wikitech Knust Student Club
+# [WIKITECH STUDENT FAN CLUB](https://wikitech-student-fan-club-knust.github.io/handbook-24/)
 
 [![Image: A group of students working together on a project](https://upload.wikimedia.org/wikipedia/commons/2/2a/Wikimedia-foundation-brand-postcard-front.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikitech-knust-logo.png/640px-Wikitech-knust-logo.png)
 
