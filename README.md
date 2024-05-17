@@ -13,6 +13,11 @@
 
 The Wikitech Knust Student Club aims to foster a community of students interested in technology, innovation, and collaboration. Our goal is to provide a platform for students to learn, share, and grow together, while promoting open knowledge and collaboration.
 
+## Our Values
+-------------
+[![Image: Nea Onnim](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)](https://www.adinkrasymbols.org/symbols/nea-onnim/#google_vignette)
+
+
 ## About Wikimedia
 -------------------
 
