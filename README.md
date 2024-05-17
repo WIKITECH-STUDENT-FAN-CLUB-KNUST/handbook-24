@@ -13,9 +13,13 @@
 
 The Wikitech Knust Student Club aims to foster a community of students interested in technology, innovation, and collaboration. Our goal is to provide a platform for students to learn, share, and grow together, while promoting open knowledge and collaboration.
 
-## Our Values
+## Our Values with Ghanaian touch
 -------------
-[![Image: Nea Onnim](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)
+[![Image: Nea Onnim](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)](https://www.adinkrasymbols.org/symbols/nea-onnim/)
+[![Image: Owo Foro Adobe](https://www.adinkrasymbols.org/adinkra/owo-foro-adobe-medium.png)](https://www.adinkrasymbols.org/symbols/owo-foro-adobe/)
+[![Image: UAC Nkanea](https://www.adinkrasymbols.org/adinkra/uac-nkanea-medium.png)](https://www.adinkrasymbols.org/symbols/uac-nkanea/)
+[![Image: Nyansapo](https://www.adinkrasymbols.org/adinkra/nyansapo-medium.png)](https://www.adinkrasymbols.org/symbols/nyansapo/)
+[![Image: Funtumfunefu Denkyemfunefu](https://www.adinkrasymbols.org/adinkra/funtumfunefu-denkyemfunefu-medium.png)](https://www.adinkrasymbols.org/symbols/funtumfunefu-denkyemfunefu/)
 
 
 ## About Wikimedia
