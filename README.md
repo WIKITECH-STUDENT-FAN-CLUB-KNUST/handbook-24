@@ -38,7 +38,7 @@ Wikimedia is a non-profit organization that relies on donations and support from
 ## What is Wikitech?
 -------------------
 
-Wikitech is the technical arm of the Wikimedia movement. We're a community of developers, designers, and other tech-savvy individuals who work together to build and maintain the technical infrastructure of Wikimedia. This includes:
+Wikitech is the technical arm of the Wikimedia movement. We're a community of developers, designers, writers, and other tech-savvy individuals who work together to build and maintain the technical infrastructure of Wikimedia. This includes:
 
 * Building and maintaining websites and applications.
 * Developing and testing software.
