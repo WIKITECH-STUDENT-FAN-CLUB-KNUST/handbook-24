@@ -3,6 +3,11 @@
 
 [![Image: A group of students working together on a project](https://upload.wikimedia.org/wikipedia/commons/2/2a/Wikimedia-foundation-brand-postcard-front.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikitech-knust-logo.png/640px-Wikitech-knust-logo.png)
 
+## Our Logo
+-----------
+
+[![Image: THE WIKITECH STUDENT FAN CLUB LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikitech-knust-logo.png/640px-Wikitech-knust-logo.png)]()
+
 ## Mission Statement
 -------------------
 
