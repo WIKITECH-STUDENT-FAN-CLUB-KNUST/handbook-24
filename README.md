@@ -85,5 +85,5 @@ Want to get involved with Wikitech Knust Student Club? Here are some ways you ca
 ## Donate
 ---------
 
-Your donations help support our projects and activities. You can donate to the Wikimedia Foundation through our [Donate Page](https://wikimediafoundation.org/donate/).
+Your donations help support our projects and activities. You can donate to the Wikimedia Foundation through our [Donate Page](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=GH&uselang=en&utm_medium=wmfSite&utm_source=0&utm_campaign=navButton).
 
