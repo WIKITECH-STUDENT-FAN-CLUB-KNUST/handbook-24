@@ -15,7 +15,7 @@ The Wikitech Knust Student Club aims to foster a community of students intereste
 
 ## Our Values
 -------------
-[![Image: Nea Onnim](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)](https://www.adinkrasymbols.org/symbols/nea-onnim/#google_vignette)
+[![Image: Nea Onnim](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)](https://www.adinkrasymbols.org/adinkra/nea-onnim-medium.png)
 
 
 ## About Wikimedia
